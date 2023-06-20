@@ -1,7 +1,7 @@
 - ### Olá pessoal 👋
 
 - ###### Sobre Fernando
-Este é o meu primeiro projeto envolvendo html, css, javascript, react e fire
+Este é o meu primeiro projeto envolvendo html, css, javascript, react e firebase
 Com apoio da EBAC - escola britânica de artes criativas & tecnologia
 
 - ### Detalhes
